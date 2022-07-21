@@ -1,0 +1,26 @@
+body{
+    background-image: url('image.jpg');
+    text-align:center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-size: cover;
+    color: white;
+    
+}
+h1{
+    color: goldenrod;
+}
+button{
+    background-color: goldenrod;
+    color:green;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+    border:none;
+    font-size: larger;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: whitesmoke;
+}
+
